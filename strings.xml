@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Evaluasi Group 3</string>
+    <string name="name_docter">Nama Dokter Spesialis</string>
+    <string name="description">Deskripsi Dokter Spesialis Penyakit</string>
+
+    <string-array name="data_name">
+        <item>Dokter Spesialis Penyakit Dalam</item>
+        <item>Dokter Spesialis Anak</item>
+        <item>Dokter Spesialis Saraf</item>
+        <item>Dokter Spesialis Kandungan</item>
+        <item>Dokter Spesialis Bedah</item>
+        <item>Dokter Spesialis THT</item>
+        <item>Dokter Spesialis Mata</item>
+        <item>Dokter Gigi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dokter spesialis penyakit dalam adalah dokter yang memiliki spesialisasi untuk
+            mendiagnosis dan menangani sejumlah masalah kesehatan yang dialami pasien dewasa
+            atau lansia. Contohnya adalah masalah imun, penyakit jantung, diabetes, hipertensi,
+            penyakit pencernaan, penyakit pernapasan, dan penyakit ginjal.</item>
+        <item>Dokter spesialis anak adalah dokter yang memiliki spesialisasi dalam mendiagnosis
+            dan menangani pasien berusia 0–18 tahun. Umumnya semua penyakit yang terjadi pada anak,
+            baik masalah fisik, perilaku, hingga kesehatan mental, akan dirujuk ke dokter spesialis anak.</item>
+        <item>Dokter spesialis saraf adalah dokter yang bertugas untuk mendiagnosis, menangani,
+            dan merawat penderita penyakit yang berhubungan dengan sistem saraf, mulai dari otak,
+            saraf tulang belakang, hingga sistem saraf tepi. Dokter spesialis saraf biasanya menangani
+            pasien stroke, infeksi sistem saraf, tumor yang tidak bisa dioperasi, penyakit autoimun
+            yang menyerang sistem saraf, kejang, gangguan gerakan tubuh, gangguan otot karena kelainan
+            pada saraf, migrain, demensia, dan neuropati perifer.</item>
+        <item>Dokter spesialis kandungan adalah dokter yang memiliki keahlian khusus di 2 bidang, yaitu
+            keahlian seputar kehamilan dan proses melahirkan (obstetri) dan keahlian seputar kesehatan reproduksi (ginekologi).
+            Bidang obstetri melayani semua hal seputar kehamilan dan melahirkan, baik yang normal maupun
+            yang bermasalah. Sementara itu, bidang ginekologi melayani keluhan terkait kesehatan reproduksi,
+            misalnya masalah menstruasi dan menopause.</item>
+        <item>Dokter spesialis bedah merupakan dokter yang memiliki spesialisasi pada semua hal yang
+            berkaitan dengan prosedur pembedahan. Anda bisa berkonsultasi dengan dokter bedah jika memiliki
+            benjolan tidak normal di bagian tertentu atau luka yang tak kunjung sembuh.
+            Beberapa kasus membutuhkan dokter bedah dengan keahlian khusus, misalnya pembedahan jaringan
+            kanker akan dilakukan oleh spesialis bedah onkologi, sementara pembedahan pada tulang akan
+            dilakukan oleh spesialis orthopedi.</item>
+        <item>Dokter spesialis THT adalah dokter yang memiliki spesialisasi untuk mendiagnosis, menangani,
+            dan merawat penderita gangguan telinga, hidung, dan tenggorokan. Masalah kesehatan yang bisa
+            ditangani dokter spesialis THT antara lain adalah radang tenggorokan, radang amandel, sleep apnea,
+            sinusitis, infeksi telinga, hingga tumor di bagian kepala dan leher.</item>
+        <item>Dokter spesialis mata adalah dokter yang memiliki keahlian dalam menangani masalah kesehatan mata.
+            Selain melakukan pemeriksaan mata, dokter spesialis mata juga dapat memberikan resep obat atau kacamata,
+            dan juga melakukan operasi mata. Masalah kesehatan mata yang biasa ditangani oleh dokter spesialis mata
+            antara lain adalah masalah penglihatan, gangguan kelopak mata, iritasi mata, kelilipan yang tidak kunjung hilang,
+            atau penyakit mata terkait usia, seperti katarak.</item>
+        <item>Dokter gigi adalah dokter yang khusus menangani masalah kesehatan gigi dan mulut.
+            Ada beragam masalah kesehatan gigi yang biasanya ditangani oleh dokter gigi, mulai dari gusi berdarah,
+            gigi sensitif, gigi berlubang, hingga masalah bau mulut kronis. Dokter gigi juga mempunyai spesialis bedah mulut,
+            spesialis gigi anak, spesialis ortodonti, spesialis penyakit mulut, dan spesialis prostodonsia (gigi palsu).</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/dokterdalam</item>
+        <item>@drawable/dokteranak</item>
+        <item>@drawable/doktersaraf</item>
+        <item>@drawable/dokterkandungan</item>
+        <item>@drawable/dokterbedah</item>
+        <item>@drawable/doktertht</item>
+        <item>@drawable/doktermata</item>
+        <item>@drawable/doktergigi</item>
+    </array>
+</resources>

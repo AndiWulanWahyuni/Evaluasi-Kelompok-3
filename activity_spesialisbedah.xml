@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".spesialisbedah">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_rounded_trans"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="50dp"
+        android:text="Dokter Spesialis Bedah"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Dokter spesialis bedah merupakan dokter yang memiliki spesialisasi pada semua hal yang berkaitan dengan prosedur pembedahan. Anda bisa berkonsultasi dengan dokter bedah jika memiliki benjolan tidak normal di bagian tertentu atau luka yang tak kunjung sembuh. Beberapa kasus membutuhkan dokter bedah dengan keahlian khusus, misalnya pembedahan jaringan kanker akan dilakukan oleh spesialis bedah onkologi, sementara pembedahan pada tulang akan dilakukan oleh spesialis orthopedi."/>
+
+</RelativeLayout>

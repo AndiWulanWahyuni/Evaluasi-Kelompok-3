@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".spesialistht">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_rounded_trans"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="50dp"
+        android:text="Dokter Spesialis THT"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Dokter spesialis THT adalah dokter yang memiliki spesialisasi untuk mendiagnosis, menangani, dan merawat penderita gangguan telinga, hidung, dan tenggorokan. Masalah kesehatan yang bisa ditangani dokter spesialis THT antara lain adalah radang tenggorokan, radang amandel, sleep apnea, sinusitis, infeksi telinga, hingga tumor di bagian kepala dan leher."/>
+
+</RelativeLayout>

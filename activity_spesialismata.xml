@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".spesialismata">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_rounded_trans"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="50dp"
+        android:text="Dokter Spesialis Mata"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Dokter spesialis mata adalah dokter yang memiliki keahlian dalam menangani masalah kesehatan mata. Selain melakukan pemeriksaan mata, dokter spesialis mata juga dapat memberikan resep obat atau kacamata, dan juga melakukan operasi mata. Masalah kesehatan mata yang biasa ditangani oleh dokter spesialis mata antara lain adalah masalah penglihatan, gangguan kelopak mata, iritasi mata, kelilipan yang tidak kunjung hilang, atau penyakit mata terkait usia, seperti katarak."/>
+
+</RelativeLayout>
